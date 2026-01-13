@@ -4,6 +4,16 @@ Welcome to the OpenCode internal architecture documentation! This folder contain
 
 ## 📚 Documentation Index
 
+### [VISUAL-GUIDE.md](./VISUAL-GUIDE.md) 📊
+**Visual Guide with Diagrams** - ASCII diagrams and flowcharts
+- Context management flow diagram
+- Token budget breakdown visualization
+- Edit tool execution flow
+- File time tracking timeline
+- Tool selection decision tree
+- Compaction process before/after
+- Complete system architecture diagram
+
 ### [99-quick-reference.md](./99-quick-reference.md) ⚡
 **Quick Reference Guide** - Fast lookup for common patterns and workflows
 - Context management in 5 steps
@@ -42,6 +52,9 @@ Welcome to the OpenCode internal architecture documentation! This folder contain
 
 ## 🎯 Quick Start
 
+**Need visual diagrams?** Check out:
+- [Visual Guide](./VISUAL-GUIDE.md) - Flowcharts and ASCII diagrams
+
 **Need a quick reference?** Start with:
 - [Quick Reference Guide](./99-quick-reference.md) - Fast lookup for common patterns, workflows, and token costs
 
@@ -51,6 +64,7 @@ Welcome to the OpenCode internal architecture documentation! This folder contain
 3. [Diff Strategy](./02-diff-strategy.md) - Learn how changes are applied
 
 **Looking for something specific?**
+- Diagrams and flowcharts → [Visual Guide](./VISUAL-GUIDE.md)
 - Token management → [Context Management](./01-context-management.md)
 - Edit/patch tools → [Diff Strategy](./02-diff-strategy.md)
 - Complete system flow → [Architecture Overview](./00-architecture-overview.md)
