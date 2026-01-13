@@ -4,6 +4,15 @@ Welcome to the OpenCode internal architecture documentation! This folder contain
 
 ## 📚 Documentation Index
 
+### [99-quick-reference.md](./99-quick-reference.md) ⚡
+**Quick Reference Guide** - Fast lookup for common patterns and workflows
+- Context management in 5 steps
+- Diff strategy in 3 rules
+- Token cost comparisons
+- Common workflows and error handling
+- Tool selection guide
+- Performance tips
+
 ### [00-architecture-overview.md](./00-architecture-overview.md)
 **Complete architecture overview** - Start here to understand OpenCode's overall design
 - High-level component diagram
@@ -33,6 +42,9 @@ Welcome to the OpenCode internal architecture documentation! This folder contain
 
 ## 🎯 Quick Start
 
+**Need a quick reference?** Start with:
+- [Quick Reference Guide](./99-quick-reference.md) - Fast lookup for common patterns, workflows, and token costs
+
 **New to OpenCode?** Read in this order:
 1. [Architecture Overview](./00-architecture-overview.md) - Get the big picture
 2. [Context Management](./01-context-management.md) - Understand how code is read
@@ -42,6 +54,7 @@ Welcome to the OpenCode internal architecture documentation! This folder contain
 - Token management → [Context Management](./01-context-management.md)
 - Edit/patch tools → [Diff Strategy](./02-diff-strategy.md)
 - Complete system flow → [Architecture Overview](./00-architecture-overview.md)
+- Quick patterns → [Quick Reference](./99-quick-reference.md)
 
 ---
 
