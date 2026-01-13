@@ -88,6 +88,16 @@ Learn more about [agents](https://opencode.ai/docs/agents).
 
 For more info on how to configure OpenCode [**head over to our docs**](https://opencode.ai/docs).
 
+#### Architecture & Internal Documentation
+
+Want to understand how OpenCode works under the hood?
+
+- [**Architecture Overview**](./docs/00-architecture-overview.md) - Complete system design and data flow
+- [**Context Management**](./docs/01-context-management.md) - How OpenCode reads code without exceeding LLM token limits
+- [**Diff Strategy**](./docs/02-diff-strategy.md) - How OpenCode applies code changes efficiently
+
+See the [docs folder](./docs/) for detailed technical documentation.
+
 ### Contributing
 
 If you're interested in contributing to OpenCode, please read our [contributing docs](./CONTRIBUTING.md) before submitting a pull request.
